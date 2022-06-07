@@ -1,4 +1,10 @@
-### Hi there 👋
+<p align='center'>
+  <a href="https://github.com/hugoMGSung">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=FFFFFF&height=300&section=header&text=Study%20Repository&fontSize=50"/>
+  </a>
+</p>
+
+### rudfo3264's github
 
 <!--
 **rudfo3264/rudfo3264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
